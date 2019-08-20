@@ -1,5 +1,7 @@
 {
-    "serverPort": 1337,
-    "serverVersion": 5,
-    "checkUpdates": true
+    "version": 1,
+    "update": true,
+    "server": {
+        "port": 8083
+    }
 }
