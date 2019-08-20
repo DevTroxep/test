@@ -1,5 +1,5 @@
 {
     "serverPort": 1337,
-    "serverVersion": 1,
+    "serverVersion": 5,
     "checkUpdates": true
 }
