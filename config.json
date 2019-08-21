@@ -1,7 +1,7 @@
 {
-    "version": 5,
-    "update": true,
     "server": {
-        "port": 8083
+        "port": 8083,
+        "version": 5,
+        "update": true,
     }
 }
